@@ -1,0 +1,5 @@
+{
+	"shell": "true",
+	"cmd": ["msgfmt \"$file\" -o \"$file_path/$file_base_name.mo\""],
+    "selector": "source.po"
+}
