@@ -3,10 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>comment</key>
-	<string>
-TODO:  Command for copy original to untranslated, label as fuzzy, remove fuzzy, next fuzzy etc
-Create meta scope for each entry
-</string>
+	<string></string>
 	<key>fileTypes</key>
 	<array>
 		<string>po</string>
